@@ -1,0 +1,28 @@
+body {
+    background-color: whitesmoke;
+    font-family: 'avenir', arial;
+}
+.formulaire {
+    margin-bottom: 50px;
+}
+.formulaire h1{
+    font-size: 53px;
+}
+.formulaire select{
+    width: 300px;
+    text-align: center;
+    margin: 20px 5px 5px 10px;
+}
+th, td {
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    border: 1px solid black;
+    color : #ffffff
+}
+#button {
+    border-radius: 20px;
+}
+td {
+    background-color: #262627;
+}
